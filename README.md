@@ -15,7 +15,7 @@ The project consists of a Telegram bot that interacts with the user through cust
 - 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/4lequinn/telegram-bot-scraper.git
+    https://github.com/Goblincomet/Scraping-TelegramBot
 ```
 - 2. Go to project path:
 
@@ -65,4 +65,5 @@ If you want to contribute to this project, follow these steps:
 - 5. Open a pull request in the original repository.
 
 ## Credits
-- Author: Jorge Quintui
+- Author: Henry Patterson
+- 
